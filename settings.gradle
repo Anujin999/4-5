@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "spinner, imageview, button. pass data to activity"
